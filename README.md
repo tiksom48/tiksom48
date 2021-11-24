@@ -1,9 +1,9 @@
 ## Olá 👋, Eu sou Jonathan Patrich
-<h3 align = "center"> Estudante de TI </h3>
+<h3 align = "center">  Desenvolvedor Full Stack Jr </h3>
 
-- 🌱 Atualmente estou aprendendo: Lógica de Programação e Algoritmos,
-                                  Programação Orientada a Objetos + Projetos
-                                  na plataforma Udemy.
+- 🚀 Mude seus pensamentos e mude seu mundo.
+- 👨‍🎓 Estudante de Gestão da tecnologia da informação (Uniasselvi)
+- 📚 Estudante da Stackx desenvolvimento de software
 <div align="center">
   <a href="https://github.com/tiksom48">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiksom48&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
